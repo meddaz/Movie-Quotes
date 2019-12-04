@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500px;
+    border: 1px;
+    color: white;
+}
+
+#display {
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+    background-color: transparent;
+    height: 250px;
+    width: 250px;
+    border-radius: 16px;
+    color: white;
+    padding: 5px;
+}
+
+button {
+    background-color: gray;
+    font-size: 18px;
+    border-color: transparent;
+    color: white;
+}
